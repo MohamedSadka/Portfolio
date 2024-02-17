@@ -331,7 +331,8 @@ main {
 .myIMG {
   width: 90px;
   height: 90px;
-  border-radius: 50%;
+  max-width: 100%;
+  border-radius: 25%;
 }
 
 /*-----------------------------------*\
